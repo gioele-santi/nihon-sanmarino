@@ -6,7 +6,9 @@ description: "Tutto è pronto per la II° edizione di BIOSALUS, Festival Naziona
   del biologico e del benessere olistico che si terrà il 3, 4 e 5 ottobre nel
   CENTRO STORICO DI URBINO. "
 featuredpost: false
-featuredimage: /img/biosalus_festival_2008.jpg
+header: no
+image:
+    title: biosalus_festival_2008.jpg
 tags:
   - eventi
   - cultura

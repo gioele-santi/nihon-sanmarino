@@ -3,7 +3,9 @@ layout: page
 title: Preghiere Musicali
 date: 2013-08-14T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2013_tsp.jpg
+header: no
+image:
+    title: 2013_tsp.jpg
 tags:
   - eventi
   - musica

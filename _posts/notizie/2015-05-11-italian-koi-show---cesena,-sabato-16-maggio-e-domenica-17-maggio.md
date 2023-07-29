@@ -4,7 +4,9 @@ title: Italian Koi Show - Cesena, Sabato 16 Maggio e Domenica 17 Maggio
 date: 2015-05-11T12:00:00.000Z
 description: Pubbliciziamo questo interessante evento a tema giapponese.
 featuredpost: false
-featuredimage: /img/iks.jpg
+header: no
+image:
+    title: iks.jpg
 tags:
   - eventi
   - arti marziali

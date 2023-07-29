@@ -4,7 +4,9 @@ title: Concerto di musica tradizionale
 date: 2013-12-13T12:00:00.000Z
 description: Vi invitiamo a partecipare al 
 featuredpost: false
-featuredimage: /img/2013_onshinkai.jpg
+header: no
+image:
+    title: 2013_onshinkai.jpg
 tags:
   - eventi
   - musica

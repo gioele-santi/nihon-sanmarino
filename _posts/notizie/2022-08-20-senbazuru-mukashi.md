@@ -2,7 +2,9 @@
 layout: page
 title: Serata alla Bibliobaita
 date: 2022-08-20T12:00:00.000Z
-featuredimage: /img/2022-senbazuru-mukashi.jpg
+header: no
+image:
+    title: 2022-senbazuru-mukashi.jpg
 featuredpost: false
 
 tags:

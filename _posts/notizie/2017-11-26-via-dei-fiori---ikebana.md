@@ -3,7 +3,9 @@ layout: page
 title: Via dei fiori - Ikebana
 date: 2017-11-26T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2017_ikebana.jpg
+header: no
+image:
+    title: 2017_ikebana.jpg
 tags:
   - eventi
   - ikebana

@@ -3,7 +3,9 @@ layout: page
 title: Concerto koto e shakuhachi
 date: 2009-02-23T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/concerto_koto_shakuhachi_09.jpg
+header: no
+image:
+    title: concerto_koto_shakuhachi_09.jpg
 tags:
   - eventi
   - musica

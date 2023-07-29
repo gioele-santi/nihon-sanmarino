@@ -3,7 +3,9 @@ layout: page
 title: Il Vento dal Giappone - 2018
 date: 2018-08-15T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/vento_giappone_2017.png
+header: no
+image:
+    title: vento_giappone_2017.png
 tags:
   - eventi
   - musica

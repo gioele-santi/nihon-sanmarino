@@ -3,7 +3,9 @@ layout: page
 title: Cerimonia del té
 date: 2015-03-20T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2015-03-20-cerimonia-del-té.jpg
+header: no
+image:
+    title: 2015-03-20-cerimonia-del-té.jpg
 tags:
   - eventi
   - te

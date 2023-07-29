@@ -3,7 +3,9 @@ layout: page
 title: Dopo 30 anni dall’ultima serie, Lupin torna sugli schermi e lo fa passando per San Marino
 date: 2014-10-15T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2014-10-15-dopo-30-anni-dall’ultima-serie,-lupin-torna-sugli-schermi-e-lo-fa-passando-per-san-marino.jpg
+header: no
+image:
+    title: 2014-10-15-dopo-30-anni-dall’ultima-serie,-lupin-torna-sugli-schermi-e-lo-fa-passando-per-san-marino.jpg
 tags:
   - notizie
   - animazione

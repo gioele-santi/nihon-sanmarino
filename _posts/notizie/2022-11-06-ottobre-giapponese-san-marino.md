@@ -2,7 +2,9 @@
 layout: page
 title: Cinema di Animazione e Musica dal Giappone a San Marino
 date: 2022-11-06T12:00:00.000Z
-featuredimage: /img/2022_ottobre-giapponese.jpg
+header: no
+image:
+    title: 2022_ottobre-giapponese.jpg
 featuredpost: false
 
 tags:

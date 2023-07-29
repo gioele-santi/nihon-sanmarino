@@ -4,7 +4,9 @@ title: Cerimonia del tè e vestizione kimono
 date: 2008-04-02T12:00:00.000Z
 description: Dimostrazione di cerimonia del tè
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+header: no
+image:
+    title: apple-touch-icon.png
 tags:
   - eventi
   - te

@@ -3,7 +3,9 @@ layout: page
 title: Il Vento del Giappone - Estate 2016
 date: 2016-08-21T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2016-08-21-il-vento-del-giappone---estate-2016.jpg
+header: no
+image:
+    title: 2016-08-21-il-vento-del-giappone---estate-2016.jpg
 tags:
   - eventi
   - musica

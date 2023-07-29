@@ -3,7 +3,9 @@ layout: page
 title: Concorso Artistico "Reinterpreta lo Studio Ghibli"
 date: 2014-09-07T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2014-09-07-concorso-artistico-reinterpreta-lo-studio-ghibli.jpeg
+header: no
+image:
+    title: 2014-09-07-concorso-artistico-reinterpreta-lo-studio-ghibli.jpeg
 tags:
   - eventi
   - arte

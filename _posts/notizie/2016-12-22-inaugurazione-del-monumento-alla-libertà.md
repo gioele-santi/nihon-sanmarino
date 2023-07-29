@@ -3,7 +3,9 @@ layout: page
 title: Inaugurazione del Monumento alla Libertà
 date: 2016-12-22T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2016-12-22-inaugurazione-monumento.jpg
+header: no
+image:
+    title: 2016-12-22-inaugurazione-monumento.jpg
 tags:
   - eventi
   - arte

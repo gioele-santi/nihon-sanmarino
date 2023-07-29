@@ -3,7 +3,9 @@ layout: page
 title: Concerto del coro Giapponese Mercury Club
 date: 2015-09-11T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2015-09-11-concerto-del-coro-giapponese-mercury-club.jpg
+header: no
+image:
+    title: 2015-09-11-concerto-del-coro-giapponese-mercury-club.jpg
 tags:
   - eventi
   - musica

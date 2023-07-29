@@ -2,15 +2,15 @@
 layout: page
 title: Viaggiare in Giappone
 date: 2023-02-16T12:00:00.000Z
-featuredimage: /img/2022_kamakura.jpeg
+header: no
+image:
+    title: 2022_kamakura.jpeg
 featuredpost: false
 
 tags:
   - notizie
   - viaggio
 ---
-
-![](/img/2022_asakusa.jpeg)
 
 In caso non lo sapeste, il giorno 11 Ottobre 2022 il Giappone ha di nuovo aperto le frontiere ai turisti stranieri dopo anni di chiusura dovuti alla pandemia di COVID.
 
@@ -40,4 +40,4 @@ Per quanto riguarda le limitazioni in Giappone, è sempre necessario **indossare
 
 **Buon viaggio a tutti!**
 
-![](/img/2022_ginza.jpeg)
+![](/images/2022_ginza.jpeg)

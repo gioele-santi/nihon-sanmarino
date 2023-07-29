@@ -4,7 +4,9 @@ title: Riunione Associazione
 date: 2008-01-30T12:00:00.000Z
 description: Riunione dell'associazione
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+header: no
+image:
+    title: apple-touch-icon.png
 tags:
   - notizie
 ---

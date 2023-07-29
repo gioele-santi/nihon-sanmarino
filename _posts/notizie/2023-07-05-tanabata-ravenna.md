@@ -2,16 +2,17 @@
 layout: page
 title: Serata giapponese sotto le stelle - Ravenna
 date: 2023-07-05T12:00:00.000Z
-featuredimage: /img/2023-tanabata-ravenna.jpg
-featuredpost: false
+header: no
+image:
+    title:  2023-tanabata-ravenna.jpg
 
+categories:
+  - notizie
 tags:
   - notizie
   - cultura
   - eventi
 ---
-
-![](/img/2023-tanabata-ravenna.jpg)
 
 Segnaliamo questa iniziativa a tema Giappone promossa fra gli altri dall'Associazione per gli scambi culturali fra Italia e Giappone.
 

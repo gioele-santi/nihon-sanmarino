@@ -3,7 +3,9 @@ layout: page
 title: Ottobre Giapponese
 date: 2008-10-05T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2008_ottobre_giapponese.jpg
+header: no
+image:
+    title: 2008_ottobre_giapponese.jpg
 tags:
   - eventi
   - arte

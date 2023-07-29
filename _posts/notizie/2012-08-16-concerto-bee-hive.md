@@ -3,7 +3,9 @@ layout: page
 title: String Ensemble BeeHive
 date: 2012-08-16T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2012_beehive.jpg
+header: no
+image:
+    title: 2012_beehive.jpg
 tags:
   - eventi
   - musica

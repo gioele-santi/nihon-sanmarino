@@ -3,7 +3,9 @@ layout: page
 title: Cinema Giapponese - Nuova Vita
 date: 2020-07-23T12:00:00.000Z
 description: "Questa estate, l’Associazione San Marino Giappone organizza 4 serate dedicate al cinema Giapponese."
-featuredimage: /img/2020_cineforum.jpg
+header: no
+image:
+    title: 2020_cineforum.jpg
 featuredpost: false
 
 tags:

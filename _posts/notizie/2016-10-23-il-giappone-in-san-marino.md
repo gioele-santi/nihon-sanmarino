@@ -3,7 +3,9 @@ layout: page
 title: Il Giappone in San Marino
 date: 2016-10-23T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2016-10-23-il-giappone-in-san-marino.jpg
+header: no
+image:
+    title: 2016-10-23-il-giappone-in-san-marino.jpg
 tags:
   - eventi
   - arte

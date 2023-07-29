@@ -4,7 +4,9 @@ title: Giappone dai Samurai a Mazinga
 date: 2014-10-14T12:00:00.000Z
 description: Pubbliciziamo questo evento, sicuramente non proprio vicino, ma estremamente interessante
 featuredpost: false
-featuredimage: /img/samurai_mazinga_2014.jpg
+header: no
+image:
+    title: samurai_mazinga_2014.jpg
 tags:
   - eventi
 ---

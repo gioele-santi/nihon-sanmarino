@@ -3,7 +3,9 @@ layout: page
 title: Convocazione Assemblea 2018
 date: 2018-03-21T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+header: no
+image:
+    title: apple-touch-icon.png
 tags:
   - notizie
 ---

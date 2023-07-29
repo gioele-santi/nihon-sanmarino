@@ -3,7 +3,9 @@ layout: page
 title: SENBAZURU - Mille Gru per la pace
 date: 2022-04-25T12:00:00.000Z
 description: "Un evento all'insegna della convivialità e della pace"
-featuredimage: /img/2022_senbazuru.JPG
+header: no
+image:
+    title: 2022_senbazuru.JPG
 featuredpost: false
 
 tags:

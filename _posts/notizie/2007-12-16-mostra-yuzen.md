@@ -5,7 +5,9 @@ date: 2007-12-16T12:00:00.000Z
 description: "Mostra e dimostrazione di Yuzen della maestra Kataoka a Milano,
   presso il ristorante Oasi Giapponese dal 15 al 20 ottobre 2007 "
 featuredpost: false
-featuredimage: /img/yuzen-wikimedia_commons.jpg
+header: no
+image:
+    title: yuzen-wikimedia_commons.jpg
 tags:
   - eventi
   - yuzen

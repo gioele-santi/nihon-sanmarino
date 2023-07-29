@@ -4,7 +4,9 @@ title: Convocazione Assemblea 2016
 date: 2016-03-12T12:00:00.000Z
 description: Pubblichiamo la convocazione dell'Assemblea dell'Associazione San Marino Giappone
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+header: no
+image:
+    title: apple-touch-icon.png
 tags:
   - eventi
 ---

@@ -3,7 +3,9 @@ layout: page
 title: JFF Plus - Festival del cinema giapponese
 date: 2021-02-08T12:00:00.000Z
 description: "Pubblicizziamo questa iniziativa della Japan Foundation che farà piacere a tutti gli appasionati di cinema e Giappone"
-featuredimage: /img/2021_JFF_Plus.png
+header: no
+image:
+    title: 2021_JFF_Plus.png
 featuredpost: false
 
 tags:

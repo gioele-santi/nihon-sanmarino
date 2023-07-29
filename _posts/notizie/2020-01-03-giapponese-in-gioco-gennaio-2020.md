@@ -3,7 +3,9 @@ layout: page
 title: Giapponese in gioco Gennaio 2020
 date: 2020-01-03T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2019-12-03-giapponese-in-gioco-gennaio-2020.jpg
+header: no
+image:
+    title: 2019-12-03-giapponese-in-gioco-gennaio-2020.jpg
 tags:
   - eventi
 ---

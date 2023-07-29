@@ -5,7 +5,9 @@ date: 2019-05-27T12:00:00.000Z
 description: "Riportiamo il testo del comunicato stampa ufficiale
   dell'Ambasciata del Giappone e della Segreteria di Stato Affari Esteri. "
 featuredpost: true
-featuredimage: /img/2019-05-27-celebrazione-ventennale-del-consolato-onorario-del-giappone-a-san-marino.jpg
+header: no
+image:
+    title: 2019-05-27-celebrazione-ventennale-del-consolato-onorario-del-giappone-a-san-marino.jpg
 tags:
   - eventi
   - ventennale

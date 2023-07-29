@@ -4,7 +4,9 @@ title: Iniziativa "Raccontare il Giappone"
 date: 2008-03-10T12:00:00.000Z
 description: "Raccontare il Giappone: la storia di un popolo attraverso le sue fiabe"
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+header: no
+image:
+    title: apple-touch-icon.png
 tags:
   - eventi
   - fiabe

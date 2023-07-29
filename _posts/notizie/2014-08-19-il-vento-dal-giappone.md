@@ -3,7 +3,9 @@ layout: page
 title: Il vento dal Giappone
 date: 2014-08-19T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2014-08-19-il-vento-dal-giappone.jpg
+header: no
+image:
+    title: 2014-08-19-il-vento-dal-giappone.jpg
 tags:
   - eventi
   - musica

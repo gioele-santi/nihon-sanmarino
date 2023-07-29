@@ -3,7 +3,9 @@ layout: page
 title: 18° Festival Giapponese
 date: 2016-11-22T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2016-11-22-18°-festival-giapponese.jpg
+header: no
+image:
+    title: 2016-11-22-18°-festival-giapponese.jpg
 tags:
   - eventi
 ---

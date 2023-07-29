@@ -3,7 +3,9 @@ layout: page
 title: Mika Shigematsu Memorial
 date: 2022-08-19T12:00:00.000Z
 featuredpost: true
-featuredimage: /img/2022_shigematsu_memorial.jpg
+header: no
+image:
+    title: 2022_shigematsu_memorial.jpg
 tags:
   - eventi
   - musica

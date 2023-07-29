@@ -3,7 +3,9 @@ layout: page
 title: Serata Giapponese
 date: 2011-10-23T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2011-10-23-serata-giapponese.jpg
+header: no
+image:
+    title: 2011-10-23-serata-giapponese.jpg
 tags:
   - eventi
   - cucina

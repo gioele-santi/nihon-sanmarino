@@ -3,7 +3,9 @@ layout: page
 title: Riunione Soci e Simpatizzanti
 date: 2008-11-02T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+header: no
+image:
+    title: apple-touch-icon.png
 tags:
   - notizie
 ---

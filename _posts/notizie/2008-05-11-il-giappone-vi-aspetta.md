@@ -6,7 +6,9 @@ description: "Vi segnaliamo due eccezionali opportunità che il Governo
   giapponese offre a chi, fra i giovani sammarinesi, è interessato ad un
   soggiorno in Giappone:"
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+header: no
+image:
+    title: apple-touch-icon.png
 tags:
   - notizie
   - studio

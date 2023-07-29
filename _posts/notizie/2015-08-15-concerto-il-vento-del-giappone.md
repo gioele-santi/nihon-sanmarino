@@ -3,7 +3,9 @@ layout: page
 title: Concerto Il Vento del Giappone
 date: 2015-08-15T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2015-08-15-concerto-il-vento-del-giappone.jpg
+header: no
+image:
+    title: 2015-08-15-concerto-il-vento-del-giappone.jpg
 tags:
   - eventi
   - musica

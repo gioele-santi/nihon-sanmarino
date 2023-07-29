@@ -3,7 +3,9 @@ layout: page
 title: Mostra Kuniko Watanuki
 date: 2008-09-23T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/watanuki_titano.jpg
+header: no
+image:
+    title: watanuki_titano.jpg
 tags:
   - eventi
   - arte

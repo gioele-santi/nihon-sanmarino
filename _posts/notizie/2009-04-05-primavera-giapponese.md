@@ -3,7 +3,9 @@ layout: page
 title: Primavera Giapponese
 date: 2009-04-05T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2009-04-05-primavera-giapponese.jpg
+header: no
+image:
+    title: 2009-04-05-primavera-giapponese.jpg
 tags:
   - eventi
   - yuzen

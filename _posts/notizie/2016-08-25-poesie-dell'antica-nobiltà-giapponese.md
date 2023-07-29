@@ -3,7 +3,9 @@ layout: page
 title: Poesie dell'Antica Nobiltà Giapponese
 date: 2016-08-25T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/sanmarino-jinja.jpg
+header: no
+image:
+    title: sanmarino-jinja.jpg
 tags:
   - eventi
 ---

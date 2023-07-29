@@ -3,7 +3,9 @@ layout: page
 title: Serata Sushi
 date: 2014-10-15T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2014-10-15-serata-sushi.jpeg
+header: no
+image:
+    title: 2014-10-15-serata-sushi.jpeg
 tags:
   - eventi
   - cucina

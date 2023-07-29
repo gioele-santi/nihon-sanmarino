@@ -2,7 +2,9 @@
 layout: page
 title: Benkyokai - Gruppo di studio di Giapponese
 date: 2023-07-02T12:00:00.000Z
-featuredimage: /img/2023-gruppo-giallo.jpg
+header: no
+image:
+    title: 2023-gruppo-giallo.jpg
 featuredpost: false
 
 tags:
@@ -10,8 +12,6 @@ tags:
   - cultura
   - iniziative
 ---
-
-
 
 Venerdì 7 Luglio, parte il gruppo di studio di lingua Giapponese.
 
@@ -37,5 +37,3 @@ che ci supportano nell'organizzazione.
 
 
 **ATTENZIONE** In caso di maltempo gli incontri si svolgeranno comunque presso la Casa del Castello di Serravalle
-
-![](/img/2023-gruppo-giallo.jpg)

@@ -4,7 +4,9 @@ title: Tesseramento per il 2022
 date: 2022-05-26T20:51:06.391Z
 description: Come contribuire all'Associazione
 featuredpost: false
-featuredimage: /img/patch.png
+header: no
+image:
+    title: patch.png
 tags:
   - associazione
   - tesseramento

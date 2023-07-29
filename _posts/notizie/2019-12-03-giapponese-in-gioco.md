@@ -3,7 +3,9 @@ layout: page
 title: Giapponese in gioco
 date: 2019-12-03T12:00:00.000Z
 featuredpost: true
-featuredimage: /img/2019-12-03-giapponese-in-gioco.jpg
+header: no
+image:
+    title: 2019-12-03-giapponese-in-gioco.jpg
 tags:
   - eventi
 ---

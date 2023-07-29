@@ -3,7 +3,9 @@ layout: page
 title: Scuola di fumetto a San Marino
 date: 2014-10-12T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2014-10-12-scuola-di-fumetto-a-san-marino.jpg
+header: no
+image:
+    title: 2014-10-12-scuola-di-fumetto-a-san-marino.jpg
 tags:
   - notizie
   - manga

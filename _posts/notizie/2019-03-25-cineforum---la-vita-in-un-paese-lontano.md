@@ -3,7 +3,9 @@ layout: page
 title: Cineforum - La vita in un paese lontano
 date: 2019-03-25T12:00:00.000Z
 description: "L'Associazione San Marino - Giappone vi invita a partecipare numerosi al Cineforum dal tema 'La vita in un paese lontano'. "
-featuredimage: /img/img_cineforum_2019.jpg
+header: no
+image:
+    title: img_cineforum_2019.jpg
 featuredpost: false
 
 tags:

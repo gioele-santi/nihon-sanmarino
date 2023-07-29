@@ -4,7 +4,9 @@ title: Biosalus Festival
 date: 2007-10-05T12:00:00.000Z
 description: Urbino, c/o Collegio Raffaello, 5,6,7 ottobre 2007
 featuredpost: false
-featuredimage: /img/biosalus_festival_2007.jpg
+header: no
+image:
+    title: biosalus_festival_2007.jpg
 tags:
   - eventi
   - origami
