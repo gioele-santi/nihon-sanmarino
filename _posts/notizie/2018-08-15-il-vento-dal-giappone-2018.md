@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: vento_giappone_2017.png
+categories:
+  - notizie
 tags:
   - eventi
   - musica

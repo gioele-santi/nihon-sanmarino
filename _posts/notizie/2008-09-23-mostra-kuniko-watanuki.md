@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: watanuki_titano.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - arte

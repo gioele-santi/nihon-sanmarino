@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2008_ottobre_giapponese.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - arte

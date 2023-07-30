@@ -4,6 +4,8 @@ title: XVII Mostra bonsai e suiseki
 date: 2014-10-12T12:00:00.000Z
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - bonsai

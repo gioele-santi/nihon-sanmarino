@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: concerto_koto_shakuhachi_09.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

@@ -4,6 +4,8 @@ title: Prima riunione del 2010
 date: 2010-02-07T12:00:00.000Z
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - notizie
 ---

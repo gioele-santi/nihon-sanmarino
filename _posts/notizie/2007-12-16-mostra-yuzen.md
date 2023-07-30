@@ -8,6 +8,8 @@ featuredpost: false
 header: no
 image:
     title: yuzen-wikimedia_commons.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - yuzen

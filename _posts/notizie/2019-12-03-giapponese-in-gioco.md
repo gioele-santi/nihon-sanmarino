@@ -1,13 +1,21 @@
 ---
 layout: page
 title: Giapponese in gioco
+subheadline: Iniziative
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 date: 2019-12-03T12:00:00.000Z
 featuredpost: true
 header: no
 image:
     title: 2019-12-03-giapponese-in-gioco.jpg
+categories:
+  - notizie
 tags:
   - eventi
+  - iniziative
 ---
 
 
@@ -27,5 +35,7 @@ Serate culturali per avvicinarsi al giapponese giocando.
 
 potete usare il modulo contatti del sito.
 
- 
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='iniziative' %}
 

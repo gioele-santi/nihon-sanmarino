@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2014-10-15-serata-sushi.jpeg
+categories:
+  - notizie
 tags:
   - eventi
   - cucina

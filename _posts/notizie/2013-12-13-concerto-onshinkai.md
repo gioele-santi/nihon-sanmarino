@@ -7,6 +7,8 @@ featuredpost: false
 header: no
 image:
     title: 2013_onshinkai.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

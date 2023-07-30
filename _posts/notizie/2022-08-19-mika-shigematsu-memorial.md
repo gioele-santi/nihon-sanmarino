@@ -1,11 +1,18 @@
 ---
 layout: page
 title: Mika Shigematsu Memorial
+subheadline: Musica
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 date: 2022-08-19T12:00:00.000Z
 featuredpost: true
 header: no
 image:
     title: 2022_shigematsu_memorial.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica
@@ -26,3 +33,7 @@ tags:
 Questo concerto è un occasione per tornare insieme dopo la lunga interruzione dovuta all'emergenza sanitaria e per ricordare il mezzosoprano Mika Shigematsu che dal 2013 al 2019 assieme a Voci nel Montefeltro e Summer Program TSP in Italy ha organizzato la serie di concerti "Il Vento dal Giappone" proprio a San Marino.
 
 ![](/img/2022_shigematsu_memorial.jpg)
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='musica' %}

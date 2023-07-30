@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2014-10-12-scuola-di-fumetto-a-san-marino.jpg
+categories:
+  - notizie
 tags:
   - notizie
   - manga

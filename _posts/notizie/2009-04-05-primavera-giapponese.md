@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2009-04-05-primavera-giapponese.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - yuzen

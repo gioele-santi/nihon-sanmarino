@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2014-09-07-concorso-artistico-reinterpreta-lo-studio-ghibli.jpeg
+categories:
+  - notizie
 tags:
   - eventi
   - arte

@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2011-10-23-serata-giapponese.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - cucina

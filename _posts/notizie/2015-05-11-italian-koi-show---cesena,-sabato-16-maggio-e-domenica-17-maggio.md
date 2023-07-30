@@ -7,6 +7,8 @@ featuredpost: false
 header: no
 image:
     title: iks.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - arti marziali

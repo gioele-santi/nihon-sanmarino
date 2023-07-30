@@ -4,6 +4,8 @@ title: Mostra Origami Giganti ed in Miniatura
 date: 2010-10-13T12:00:00.000Z
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - arte

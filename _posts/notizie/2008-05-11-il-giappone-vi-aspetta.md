@@ -9,6 +9,8 @@ featuredpost: false
 header: no
 image:
     title: apple-touch-icon.png
+categories:
+  - notizie
 tags:
   - notizie
   - studio

@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2015-08-15-concerto-il-vento-del-giappone.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

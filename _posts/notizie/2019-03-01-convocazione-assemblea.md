@@ -1,16 +1,23 @@
 ---
 layout: page
 title: Convocazione Assemblea 2019
+subheadline: Associazione
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 date: 2019-03-01T12:00:00.000Z
 featuredpost: false
 header: no
 image:
     title: apple-touch-icon.png
-tags:
+categories:
   - notizie
+tags:
+  - associazione
 ---
 
-![](/img/apple-touch-icon.png)
+![](/images/apple-touch-icon.png)
 
 Carissimi Amici 
 
@@ -34,3 +41,7 @@ ASSOCIAZIONE SAN MARINO – GIAPPONE
 Il Presidente  
 
 [Scarica la convocazione](/pdf/2019_convocazione.pdf)
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='associazione' %}

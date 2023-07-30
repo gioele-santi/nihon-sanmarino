@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2015-03-20-cerimonia-del-té.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - te

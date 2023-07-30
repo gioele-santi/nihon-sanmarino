@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2012_beehive.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

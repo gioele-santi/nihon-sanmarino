@@ -5,6 +5,8 @@ description: "Pubbliciziamo questo concerto per chiunque sia interessato:"
 date: 2015-04-24T12:00:00.000Z
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - musica

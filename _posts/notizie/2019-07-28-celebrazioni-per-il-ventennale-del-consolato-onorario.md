@@ -5,6 +5,8 @@ date: 2019-07-28T12:00:00.000Z
 description: "Riportiamo l'articolo pubblicato dall'ambasciata del Giappone in Italia e San Marino a proposito del concerto organizzato per celebrare il Ventennale del Consolato Onorario del Giappone a San Marino."
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - musica

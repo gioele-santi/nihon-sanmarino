@@ -4,6 +4,8 @@ title: Workshop Yuzen
 date: 2009-04-05T12:00:00.000Z
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - yuzen

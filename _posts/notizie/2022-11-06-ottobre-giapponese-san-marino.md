@@ -1,12 +1,19 @@
 ---
 layout: page
 title: Cinema di Animazione e Musica dal Giappone a San Marino
+subheadline: Eventi
+teaser: "Ottobre Giapponese a San Marino"
+show_meta: true
+
+
 date: 2022-11-06T12:00:00.000Z
 header: no
 image:
     title: 2022_ottobre-giapponese.jpg
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - musica
@@ -59,3 +66,7 @@ La serata si concluderà con la proiezione dell'ultimo lavoro della regista, Hon
 <br/>
 
 ![](/img/2022_ottobre-giapponese.jpg)
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='cinema' %}

@@ -1,6 +1,11 @@
 ---
 layout: page
 title: JFF Plus - Festival del cinema giapponese
+subheadline: Cinema
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 date: 2021-02-08T12:00:00.000Z
 description: "Pubblicizziamo questa iniziativa della Japan Foundation che farà piacere a tutti gli appasionati di cinema e Giappone"
 header: no
@@ -8,6 +13,8 @@ image:
     title: 2021_JFF_Plus.png
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - cinema
@@ -27,7 +34,6 @@ Inoltre l'evento è completamente **gratuito** e per partecipare è sufficiente 
 
 Per tutti i dettagli relativi al catalogo ed alla modalità di iscrizione potete consultare la [pagina ufficiale](https://jfroma.it/jff-plus-online-festival/).
 
-<br/>
-
-![](/img/2021_JFF_Plus.png)
-
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='cultura' %}

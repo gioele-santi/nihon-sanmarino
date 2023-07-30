@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2016-12-22-inaugurazione-monumento.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - arte

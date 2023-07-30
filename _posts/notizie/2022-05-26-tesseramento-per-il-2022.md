@@ -1,12 +1,19 @@
 ---
 templateKey: blog-post
 title: Tesseramento per il 2022
+subheadline: Associazione
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 date: 2022-05-26T20:51:06.391Z
 description: Come contribuire all'Associazione
 featuredpost: false
 header: no
 image:
     title: patch.png
+categories:
+  - notizie
 tags:
   - associazione
   - tesseramento
@@ -24,3 +31,7 @@ oppure versando in **contanti** prima dell'assemblea.
 
 
 Si può contribuire anche versando il **3 per mille** con la dichiarazione dei redditi.
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='associazione' %}

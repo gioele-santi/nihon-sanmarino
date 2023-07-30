@@ -1,14 +1,19 @@
 ---
 layout: page
 title: Viaggiare in Giappone
+subheadline: Viaggio
+teaser:  "<br/><strong>ATTENZIONE</strong>: <em>le regole sono cambiate, il contenuto di questo post è solo a scopo di documentazione</em>"
+show_meta: true
+
 date: 2023-02-16T12:00:00.000Z
 header: no
 image:
     title: 2022_kamakura.jpeg
 featuredpost: false
 
-tags:
+categories:
   - notizie
+tags:
   - viaggio
 ---
 
@@ -41,3 +46,7 @@ Per quanto riguarda le limitazioni in Giappone, è sempre necessario **indossare
 **Buon viaggio a tutti!**
 
 ![](/images/2022_ginza.jpeg)
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='viaggio' %}

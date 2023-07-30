@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2014-08-19-il-vento-dal-giappone.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

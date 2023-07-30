@@ -4,6 +4,8 @@ title: Study Tour Japan 2009
 date: 2009-05-06T12:00:00.000Z
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - notizie
   - studio

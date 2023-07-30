@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2015-09-11-concerto-del-coro-giapponese-mercury-club.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

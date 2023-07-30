@@ -1,13 +1,22 @@
 ---
 templateKey: blog-post
 title: Celebrazione ventennale del Consolato Onorario del Giappone a San Marino
-date: 2019-05-27T12:00:00.000Z
-description: "Riportiamo il testo del comunicato stampa ufficiale
+subheadline: Eventi
+teaser: "Riportiamo il testo del comunicato stampa ufficiale
   dell'Ambasciata del Giappone e della Segreteria di Stato Affari Esteri. "
+meta_teaser: "Riportiamo il testo del comunicato stampa ufficiale
+  dell'Ambasciata del Giappone e della Segreteria di Stato Affari Esteri. "
+show_meta: true
+
+
+date: 2019-05-27T12:00:00.000Z
+description: 
 featuredpost: true
 header: no
 image:
     title: 2019-05-27-celebrazione-ventennale-del-consolato-onorario-del-giappone-a-san-marino.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - ventennale
@@ -51,3 +60,7 @@ Interpreti: **Leonard Eto**  (taiko), Iori Tadokoro, Niina Maeda, Ayano Mizutani
 **AYANO MIZUTANI**  Inizia a ballare all’età di 3 anni presso la Japan Junior Ballet e successivamente come allieva di Asami Maki presso la scuola A.M. Students. Studia recitazione alla Kanto International Senior High School. Nel 2009 si trasferisce a studiare in Bielorussia presso La Scuola Nazionale di Ballo dove nel 2011 si diploma. Sempre dal 2011 entra a far parte del Bolshoi Opera and Ballet Theater of Belarus. Nel 2013 torna in Giappone dove attualmente svolge attività di ballerina professionista e insegnante. Si è esibita nell’opera Don Giovanni diretta da Kaiji Moriyama e nell’ambito di spettacoli delle compagnie Tokyo Komaki Ballet, BALLET TRADITION.
 
 [Homepage Ambasciata del Giappone in Italia](https://www.it.emb-japan.go.jp/jointad/sm/it/index.html)
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='eventi' %}

@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2016-10-23-il-giappone-in-san-marino.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - arte

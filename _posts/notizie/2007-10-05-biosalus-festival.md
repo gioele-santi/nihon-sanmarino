@@ -7,6 +7,8 @@ featuredpost: false
 header: no
 image:
     title: biosalus_festival_2007.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - origami

@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: sanmarino-jinja.jpg
+categories:
+  - notizie
 tags:
   - eventi
 ---

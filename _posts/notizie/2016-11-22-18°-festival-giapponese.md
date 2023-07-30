@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2016-11-22-18°-festival-giapponese.jpg
+categories:
+  - notizie
 tags:
   - eventi
 ---

@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2013_tsp.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

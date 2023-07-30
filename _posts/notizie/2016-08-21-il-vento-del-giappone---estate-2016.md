@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2016-08-21-il-vento-del-giappone---estate-2016.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - musica

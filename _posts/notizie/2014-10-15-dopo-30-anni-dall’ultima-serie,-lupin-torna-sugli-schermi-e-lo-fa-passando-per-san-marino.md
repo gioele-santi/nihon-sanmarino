@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2014-10-15-dopo-30-anni-dall’ultima-serie,-lupin-torna-sugli-schermi-e-lo-fa-passando-per-san-marino.jpg
+categories:
+  - notizie
 tags:
   - notizie
   - animazione

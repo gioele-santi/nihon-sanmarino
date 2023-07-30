@@ -9,6 +9,8 @@ featuredpost: false
 header: no
 image:
     title: biosalus_festival_2008.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - cultura

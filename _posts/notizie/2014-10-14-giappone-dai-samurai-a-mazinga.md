@@ -7,6 +7,8 @@ featuredpost: false
 header: no
 image:
     title: samurai_mazinga_2014.jpg
+categories:
+  - notizie
 tags:
   - eventi
 ---

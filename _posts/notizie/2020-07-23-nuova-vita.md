@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Cinema Giapponese - Nuova Vita
+subheadline: Cinema
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 date: 2020-07-23T12:00:00.000Z
 description: "Questa estate, l’Associazione San Marino Giappone organizza 4 serate dedicate al cinema Giapponese."
 header: no
@@ -8,6 +13,8 @@ image:
     title: 2020_cineforum.jpg
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - cinema
@@ -62,3 +69,7 @@ Ponyo è una pesciolina. Un giorno incontra Sosuke, un bambino di 5 anni e decid
 Un giorno Osamu, trova una bambina abbandonata, la prende con se e la accoglie nella sua casa. La sua famiglia vive di espedienti e la piccola ne diventerà presto parte, perché spesso l’affetto va oltre ai legami di sangue.
 
 [Scarica il volantino](/pdf/2020_nuova_vita.pdf)
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='cinema' %}

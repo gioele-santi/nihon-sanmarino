@@ -2,18 +2,23 @@
 layout: page
 title: SENBAZURU - Mille Gru per la pace
 date: 2022-04-25T12:00:00.000Z
+subheadline: Cultura
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 description: "Un evento all'insegna della convivialità e della pace"
 header: no
 image:
     title: 2022_senbazuru.JPG
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - origami
 ---
-
-![](/img/2022_senbazuru.JPG)
 
 <hr>
 
@@ -35,5 +40,9 @@ Vi invitiamo a partecipare numerosi!
 
 <br/>
 
-[Il volantino stampabile](/img/2022_senbazuru_no_sfondo.JPG)
+[Il volantino stampabile](/images/2022_senbazuru_no_sfondo.JPG)
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='cultura' %}
 

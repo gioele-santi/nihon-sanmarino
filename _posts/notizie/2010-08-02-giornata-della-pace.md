@@ -4,6 +4,8 @@ title: Giornata della Pace
 date: 2010-08-02T12:00:00.000Z
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - origami

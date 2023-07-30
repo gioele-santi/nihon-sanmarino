@@ -6,6 +6,8 @@ featuredpost: false
 header: no
 image:
     title: 2017_ikebana.jpg
+categories:
+  - notizie
 tags:
   - eventi
   - ikebana

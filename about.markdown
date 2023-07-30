@@ -1,9 +1,26 @@
 ---
-layout: page
-title: Statuto dell'Associazione San Marino - Giappone
+layout: page-fullwidth
+title: Statuto 
+subheadline: "Associazione San Marino - Giappone"
+meta_teaser: "Statuto dell'Associazione San Marino - Giappone"
+teaser: "Approvato il 30 Novembre 2021"
+
+
 header: no
 permalink: /about/
 ---
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Indice**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ### 1. Denominazione - Sede
 È costituita l'Associazione San Marino - Giappone.
@@ -165,8 +182,6 @@ sara insindacabile.
 Per quanto non previsto e regolato dal presente Statuto si fa espresso
 riferimento alle leggi e consuetudini vigenti in questa Repubblica.
 
-**Approvato il 30 Novembre 2021**
-
 ### Versioni precedenti
 
 [Statuto del 2021](/pdf/2021_statuto.pdf)
@@ -174,3 +189,6 @@ riferimento alle leggi e consuetudini vigenti in questa Repubblica.
 [Statuto del 2006 (abrogato)](/pdf/2006_statuto.pdf)
 
 [Statuto del 1991 (abrogato)](/pdf/1991_statuto.pdf)
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->

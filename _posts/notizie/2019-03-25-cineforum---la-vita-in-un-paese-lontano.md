@@ -8,6 +8,8 @@ image:
     title: img_cineforum_2019.jpg
 featuredpost: false
 
+categories:
+  - notizie
 tags:
   - eventi
   - cinema
