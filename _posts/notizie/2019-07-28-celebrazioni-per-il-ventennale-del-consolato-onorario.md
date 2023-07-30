@@ -2,7 +2,10 @@
 layout: page
 title: Celebrazioni per il ventennale del Consolato Onorario
 date: 2019-07-28T12:00:00.000Z
-description: "Riportiamo l'articolo pubblicato dall'ambasciata del Giappone in Italia e San Marino a proposito del concerto organizzato per celebrare il Ventennale del Consolato Onorario del Giappone a San Marino."
+subheadline: Musica
+teaser: "Riportiamo l'articolo pubblicato dall'ambasciata del Giappone in Italia e San Marino a proposito del concerto organizzato per celebrare il Ventennale del Consolato Onorario del Giappone a San Marino."
+show_meta: true
+
 featuredpost: false
 
 categories:
@@ -20,3 +23,7 @@ tags:
 *L’evento, attraverso il wadaiko, tamburo giapponese, e la danza, ha costituito una preziosa occasione per entrare in contatto con la cultura giapponese, in cui convivono tradizione e modernità. L’Ambasciata del Giappone continuerà ad adoperarsi per presentare i molteplici aspetti della cultura nipponica.*    
 
 - [Report originale sul sito dell'Ambasciata del Giappone](https://www.it.emb-japan.go.jp/jointad/sm/it/00_000104.html) 
+
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='musica' %}

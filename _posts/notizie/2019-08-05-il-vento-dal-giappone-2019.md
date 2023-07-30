@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Il Vento dal Giappone 2019
+subheadline: Musica
+teaser: "Ci vediamo per studiare, approfondire, confrontarci nello studio della lingua e della cultura Giapponese"
+show_meta: true
+
+
 date: 2019-08-05T12:00:00.000Z
 featuredpost: true
 header: no
@@ -12,8 +17,6 @@ tags:
   - eventi
   - musica
 ---
-
-![](/img/vento_giappone_2017.png)
 
 **Venerdì 16 Agosto 2019 alle ore 18:30, presso la Galleria Cassa di Risparmio** , Piazzetta del Titano, 2 
 
@@ -27,3 +30,6 @@ tags:
 
  Il programma presenta una scelta dalle poesie Haiku, che i migliori compositori giapponesi del primo Novecento hanno messo in musica ispirandosi sia alla tradizione musicale giapponese che alle influenze delle avanguardie europee di quel periodo 
 
+## Notizie correlate
+{: .t60 }
+{% include list-posts tag='musica' %}
