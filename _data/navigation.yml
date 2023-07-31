@@ -14,10 +14,14 @@
   url: "/blog/"
   side: left
 
-- title: "Search"
-  url: "/search/"
+- title: Gruppo di Studio
+  url: "/blog/"
+  side: left
+
+- title: "Contatti"
+  url: "/contact/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: Iscriviti
+  url: "https://forms.gle/6g5YptTzVDRkbTiD6"
   side: right
