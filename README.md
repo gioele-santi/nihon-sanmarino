@@ -1,3 +1,8 @@
+## Additional setup
+
+export PATH="/usr/local/Cellar/ruby/3.2.2_1/bin:$PATH"
+
+
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
 # Newsletter: Stay in Touch for Future Updates

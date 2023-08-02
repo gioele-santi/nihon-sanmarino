@@ -10,6 +10,7 @@ date: 2022-08-20T12:00:00.000Z
 header: no
 image:
     title: 2022-senbazuru-mukashi.jpg
+    thumb: thumbs/2022-senbazuru-mukashi.jpg
 featuredpost: false
 
 categories:

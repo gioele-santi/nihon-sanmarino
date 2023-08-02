@@ -9,6 +9,7 @@ date: 2023-07-02T12:00:00.000Z
 header: no
 image:
     title: 2023-gruppo-giallo.jpg
+    thumb: thumbs/2023-gruppo-giallo.jpg
 featuredpost: false
 
 categories:

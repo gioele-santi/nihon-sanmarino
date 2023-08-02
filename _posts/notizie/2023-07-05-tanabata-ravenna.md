@@ -11,6 +11,8 @@ date: 2023-07-05T12:00:00.000Z
 header: no
 image:
     title:  2023-tanabata-ravenna.jpg
+    thumb: thumbs/2023-tanabata-ravenna.jpg
+    homepage: homepage/2023-tanabata-ravenna.jpg
 
 categories:
   - notizie

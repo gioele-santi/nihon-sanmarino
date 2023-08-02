@@ -10,6 +10,7 @@ date: 2022-11-06T12:00:00.000Z
 header: no
 image:
     title: 2022_ottobre-giapponese.jpg
+    thumb: thumbs/2022_ottobre-giapponese.jpg
 featuredpost: false
 
 categories:

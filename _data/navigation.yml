@@ -7,7 +7,7 @@
   side: left
 
 - title: Eventi
-  url: "events"
+  url: "/events"
   side: left
 
 - title: Notizie

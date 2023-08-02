@@ -9,6 +9,7 @@ date: 2023-02-16T12:00:00.000Z
 header: no
 image:
     title: 2022_kamakura.jpeg
+    thumb: thumbs/2022_kamakura.jpeg
 featuredpost: false
 
 categories:
