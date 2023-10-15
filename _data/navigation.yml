@@ -7,7 +7,7 @@
   side: left
 
 - title: Eventi
-  url: "/events"
+  url: "/eventi"
   side: left
 
 - title: Notizie
@@ -15,7 +15,7 @@
   side: left
 
 - title: Gruppo di Studio
-  url: "/blog/"
+  url: "/benkyokai/"
   side: left
 
 - title: "Contatti"

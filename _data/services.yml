@@ -5,7 +5,7 @@
   title: "Home"
 
 - name: "Statuto"
-  url: "/statuto"
+  url: "/about"
   title: "Leggi lo statuto"
 
 - name: "Eventi"
@@ -16,9 +16,9 @@
 #   url: "/contact/"
 #   title: "Contact"
 
-# - name: "RSS"
-#   url: "/feed.xml"
-#   title: "Subscribe to RSS Feed"
+- name: "RSS"
+  url: "/feed.xml"
+  title: "Subscribe to RSS Feed"
 
 # - name: "Atom"
 #   url: "/atom.xml"
