@@ -5,10 +5,15 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-phlow: # replace this with your info
+asmjp: # replace this with your info
   name: "Associazione San Marino - Giappone"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: http://phlow.de/
-  email:
+  uri: https://sanmarino-giappone.org
+  email: associazionesanmarinogiappone@gmail.com
   twitter: 
 # you can add more authors here
+
+gioele:
+  name: "Gioele Santi"
+  siterole: "webmaster, developer, copywriter, designer"
+  email: associazionesanmarinogiappone@gmail.com
