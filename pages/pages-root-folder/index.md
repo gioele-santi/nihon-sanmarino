@@ -33,9 +33,9 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+  url: https://forms.gle/6g5YptTzVDRkbTiD6
+  text: Iscriviti all'Associazione San Marino - Giappone ›
+  style: alert # warning  info success alert  text terminal
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

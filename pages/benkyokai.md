@@ -31,9 +31,9 @@ header:
     È un'iniziativa <b>gratuita</b> senza obbligo di frequenza o iscrizione.</p>
   </div>
   <div class="large-6 columns">
-    <h3>Quando</h3>
-    <img src="/images/irasutoya/calender_man.png"> 
-    <p>Da ottobre a novembre  ci incontriamo ogni <b>sabato 10:00 - 12:00</b> per dedicarci allo studio del giapponese.</p>
+    <h3>Dove</h3>
+    <img src="/images/irasutoya/study.jpeg"> 
+    <p>Gli incontri si svolgono presso la <b>Casa del Castello di Serravalle</b>.</p>
   </div>
 </div>
 
@@ -44,9 +44,9 @@ header:
     <p>Noi soci saremo presenti con <b>materiale, libri e idee</b>. Se vuoi, porta anche il tuo manga preferito! Il giapponese è ovunque!</p>
   </div>
   <div class="large-6 columns">
-    <h3>Dove</h3>
-    <img src="/images/irasutoya/study.jpeg"> 
-    <p>Gli incontri si svolgono presso la <b>Casa del Castello di Serravalle</b>.</p>
+    <h3>Quando</h3>
+    <img src="/images/irasutoya/calender_man.png"> 
+    <p>Da ottobre a novembre  ci incontriamo ogni <b>sabato 10:00 - 12:00</b> per dedicarci allo studio del giapponese.</p>
   </div>
 </div>
 
@@ -58,45 +58,45 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 ### Cultura generale
 
-- [Breve sguardo sul Giappone - Soluzione del quiz](pdf/benkyokai/soluzione_quiz.pdf)
+- [Breve sguardo sul Giappone - Soluzione del quiz](/pdf/benkyokai/soluzione_quiz.pdf)
 
-- [Scheda saluti](pdf/benkyokai/saluti.pdf)
+- [Scheda saluti](/pdf/benkyokai/saluti.pdf)
 
-- [Numeri](pdf/benkyokai/2023_numeri.pdf)
+- [Numeri](/pdf/benkyokai/2023_numeri.pdf)
 
-- [Colori](pdf/benkyokai/2023_colori.pdf)
+- [Colori](/pdf/benkyokai/2023_colori.pdf)
 
-- [Membri della famiglia](pdf/benkyokai/2023_famiglia.pdf)
+- [Membri della famiglia](/pdf/benkyokai/2023_famiglia.pdf)
 
-- [Origami](pdf/benkyokai/2023_origami.pdf)
+- [Origami](/pdf/benkyokai/2023_origami.pdf)
 
 ### Scrittura
 
 *Un approfondimento sui sistemi di scrittura indispensabili per lo studio della lingua*
 
-- [Schema hiragana](/pdf/benkyokai/hiragana.pdf) (*)
+- [Schema hiragana](//pdf/benkyokai/hiragana.pdf) (*)
 
-- [Schema katakana](/pdf/benkyokai/katakana.pdf) (*)
+- [Schema katakana](//pdf/benkyokai/katakana.pdf) (*)
 
-- [Cruciverba hiragana](pdf/benkyokai/cruciverba_hiragana_1.pdf) 
+- [Cruciverba hiragana](/pdf/benkyokai/cruciverba_hiragana_1.pdf) 
 
-- [Kanji radicali](pdf/benkyokai/2023_radicali_gallarotti.pdf)
+- [Kanji radicali](/pdf/benkyokai/2023_radicali_gallarotti.pdf)
 
 ### Cibo
 
-- [Presentazione sul cibo](pdf/benkyokai/2023_suki.pdf)
+- [Presentazione sul cibo](/pdf/benkyokai/2023_suki.pdf)
 
-- [Elenco dei cibi](pdf/benkyokai/2023_cibi.pdf)
+- [Elenco dei cibi](/pdf/benkyokai/2023_cibi.pdf)
 
-- [Cruciverba sui cibi](pdf/benkyokai/2023_cruciverba_cibo.pdf)
+- [Cruciverba sui cibi](/pdf/benkyokai/2023_cruciverba_cibo.pdf)
 
 ### Musica
 
 *Il materiale utilizzato per l'analisi delle canzoni*
 
-- Santa Lucia, *Teodoro Cottrau* - [testo giapponese](pdf/benkyokai/2023_santa_lucia.pdf) - [canzone](https://youtu.be/tuN-K4KbfO8?si=9BkEgM7kwN3DiitJ&t=692)
+- Santa Lucia, *Teodoro Cottrau* - [testo giapponese](/pdf/benkyokai/2023_santa_lucia.pdf) - [canzone](https://youtu.be/tuN-K4KbfO8?si=9BkEgM7kwN3DiitJ&t=692)
 
-- Sakura sakura, *tradizionale* - [testo](pdf/benkyokai/2023_sakura_sakura.pdf) - [canzone](https://www.youtube.com/watch?v=0Hvo4Db3NT8)
+- Sakura sakura, *tradizionale* - [testo](/pdf/benkyokai/2023_sakura_sakura.pdf) - [canzone](https://www.youtube.com/watch?v=0Hvo4Db3NT8)
 
 - Tsubasa wo kudasai, *Akai Tori* - testo - [canzone](https://www.youtube.com/watch?v=Pdyodbm1h-A)
 
@@ -104,7 +104,7 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 - Et cetera, *One Ok Rock* - testo - [canzone](https://www.youtube.com/watch?v=8Z_B3TKIDRY)
 
-- Solanin, *Asian Kung Fu Generation* - [testo](pdf/benkyokai/2023_solanin.pdf) - [canzone](https://www.youtube.com/watch?v=xZD1B1TskXs)
+- Solanin, *Asian Kung Fu Generation* - [testo](/pdf/benkyokai/2023_solanin.pdf) - [canzone](https://www.youtube.com/watch?v=xZD1B1TskXs)
 
 ## Link utili
 
