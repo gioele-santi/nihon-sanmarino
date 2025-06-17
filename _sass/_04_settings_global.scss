@@ -334,7 +334,7 @@ $accordion-navigation-padding: rem-calc(12);
 // $accordion-navigation-font-size: rem-calc(16);
 // $accordion-navigation-font-family: $body-font-family;
 
-// $accordion-content-padding: $column-gutter/2;
+// $accordion-content-padding: math.div($column-gutter, 2);
 $accordion-content-active-bg-color: $body-bg;
 
 // 02. Alert Boxes
@@ -582,25 +582,25 @@ $crumb-slash: "/";
 // $dropdown-button-padding-tny: $button-pip-tny * 7;
 // $dropdown-button-pip-size-tny: $button-pip-tny;
 // $dropdown-button-pip-opposite-tny: $button-pip-tny * 3;
-// $dropdown-button-pip-top-tny: -$button-pip-tny / 2 + rem-calc(1);
+// $dropdown-button-pip-top-tny: math.div(-$button-pip-tny, 2) + rem-calc(1);
 
 // We use these to style small dropdown buttons
 // $dropdown-button-padding-sml: $button-pip-sml * 7;
 // $dropdown-button-pip-size-sml: $button-pip-sml;
 // $dropdown-button-pip-opposite-sml: $button-pip-sml * 3;
-// $dropdown-button-pip-top-sml: -$button-pip-sml / 2 + rem-calc(1);
+// $dropdown-button-pip-top-sml: math.div(-$button-pip-sml, 2) + rem-calc(1);
 
 // We use these to style medium dropdown buttons
 // $dropdown-button-padding-med: $button-pip-med * 6 + rem-calc(3);
 // $dropdown-button-pip-size-med: $button-pip-med - rem-calc(3);
 // $dropdown-button-pip-opposite-med: $button-pip-med * 2.5;
-// $dropdown-button-pip-top-med: -$button-pip-med / 2 + rem-calc(2);
+// $dropdown-button-pip-top-med: math.div(-$button-pip-med, 2) + rem-calc(2);
 
 // We use these to style large dropdown buttons
 // $dropdown-button-padding-lrg: $button-pip-lrg * 5 + rem-calc(3);
 // $dropdown-button-pip-size-lrg: $button-pip-lrg - rem-calc(6);
 // $dropdown-button-pip-opposite-lrg: $button-pip-lrg * 2.5;
-// $dropdown-button-pip-top-lrg: -$button-pip-lrg / 2 + rem-calc(3);
+// $dropdown-button-pip-top-lrg: math.div(-$button-pip-lrg, 2) + rem-calc(3);
 
 // 10. Flex Video
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1144,7 +1144,7 @@ $side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: -40%)
 $side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: -40%);
 $side-nav-font-size: rem-calc(16);
 
-// $side-nav-link-bg-hover: hsla(0, 0, 0, 0.025);
+// $side-nav-link-bg-hover: hsla(0, 0%, 0%, 0.025);
 // $side-nav-link-margin: 0;
 // $side-nav-link-padding: rem-calc(7 14);
 // $side-nav-font-size: rem-calc(14);
@@ -1321,7 +1321,7 @@ $table-head-bg: $grey-2;
 // $tabs-navigation-font-family: $body-font-family;
 
 // $tabs-content-margin-bottom: rem-calc(24);
-// $tabs-content-padding: $column-gutter/2;
+// $tabs-content-padding: math.div($column-gutter, 2);
 
 // $tabs-vertical-navigation-margin-bottom: 1.25rem;
 
@@ -1405,7 +1405,7 @@ $topbar-link-font-size: rem-calc(15);
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;
 $topbar-link-text-transform: uppercase;
-// $topbar-link-padding: $topbar-height / 3;
+// $topbar-link-padding: math.div($topbar-height, 3);
 // $topbar-back-link-size: $h5-font-size;
 // $topbar-link-dropdown-padding: 20px;
 
