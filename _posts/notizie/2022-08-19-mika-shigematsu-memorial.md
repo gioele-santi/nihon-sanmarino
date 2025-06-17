@@ -18,15 +18,13 @@ tags:
   - musica
 ---
 
-
-
 **Martedì 23 Agosto 2022 alle ore 19:00, presso la Galleria Cassa di Risparmio** , Piazzetta del Titano, 2 
 
  l'Associazione San Marino-Giappone, il Consolato Onorario del Giappone a San Marino, l'Accademia Lirica Voci nel Montefeltro e Summer Program TSP in Italy - Giappone, con il patrocinio della Giunta di Castello di San Marino
 
  organizzano il concerto: 
 
- #### "Mika Shigematsu Memorial"  
+ **"Mika Shigematsu Memorial"** 
 
  *Un tributo di artisti che hanno ricevuto il testimone dal mezzosoprano Shigematsu*
 

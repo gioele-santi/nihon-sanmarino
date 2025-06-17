@@ -35,7 +35,7 @@ widget3:
 callforaction:
   url: https://forms.gle/6g5YptTzVDRkbTiD6
   text: Iscriviti all'Associazione San Marino - Giappone ›
-  style: alert # warning  info success alert  text terminal
+  style: success # warning  info success alert  text terminal
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

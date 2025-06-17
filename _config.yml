@@ -192,8 +192,10 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : https://x.com/smarinogiappone
+    facebook  : https://www.facebook.com/smarinogiappone
+    youtube   : https://www.youtube.com/channel/UCz54EqZl-jKAJXQxm4dOwKQ
+    
 
 
 #        ____  _
