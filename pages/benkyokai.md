@@ -46,7 +46,7 @@ header:
   <div class="large-6 columns">
     <h3>Quando</h3>
     <img src="/images/irasutoya/calender_man.png"> 
-    <p>Da ottobre a novembre  ci incontriamo ogni <b>sabato 10:00 - 12:00</b> per dedicarci allo studio del giapponese.</p>
+    <p>Pubblicheremo presto i nuovi appuntamenti del gruppo di studio e del gruppo di lettura. Seguici qui, sui social o contattaci per ulteriori informazioni.</p>
   </div>
 </div>
 

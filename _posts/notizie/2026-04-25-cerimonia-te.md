@@ -2,8 +2,8 @@
 layout: page
 title: 茶の湯 Cerimonia del te
 subheadline: Eventi
-teaser: "ivi l'esperienza dell'autentica cerimonia del tè"
-meta_teaser:  "ivi l'esperienza dell'autentica cerimonia del tè"
+teaser: "Vivi l'esperienza dell'autentica cerimonia del tè"
+meta_teaser:  "Vivi l'esperienza dell'autentica cerimonia del tè"
 show_meta: true
 
 date: 2026-04-25T12:00:00.000Z
