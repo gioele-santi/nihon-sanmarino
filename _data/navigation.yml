@@ -6,9 +6,9 @@
   url: "/about/"
   side: left
 
-- title: Eventi
-  url: "/eventi"
-  side: left
+# - title: Eventi
+#   url: "/eventi"
+#   side: left
 
 - title: Notizie
   url: "/blog/"
@@ -18,9 +18,9 @@
   url: "/benkyokai/"
   side: left
 
-- title: "Contatti"
-  url: "/contact/"
-  side: right
+# - title: "Contatti"
+#   url: "/contact/"
+#   side: right
 
 - title: Iscriviti
   url: "https://forms.gle/6g5YptTzVDRkbTiD6"
