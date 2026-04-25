@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 茶の湯 Cerimonia del te
+title: 茶の湯 Cerimonia del tè
 subheadline: Eventi
 teaser: "Vivi l'esperienza dell'autentica cerimonia del tè"
 meta_teaser:  "Vivi l'esperienza dell'autentica cerimonia del tè"
