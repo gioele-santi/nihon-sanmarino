@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Cerimonia del te
+title: 茶の湯 Cerimonia del te
 subheadline: Eventi
-teaser: "Vivi li vera esperienza della cerimonia del tè"
-meta_teaser:  "Vivi li vera esperienza della cerimonia del tè"
+teaser: "ivi l'esperienza dell'autentica cerimonia del tè"
+meta_teaser:  "ivi l'esperienza dell'autentica cerimonia del tè"
 show_meta: true
 
 date: 2026-04-25T12:00:00.000Z
@@ -30,7 +30,7 @@ presso la **Sala Polivalente di Murata** , via del Serrone 67A
 
  organizza la manifestazione: 
 
- #### "茶の湯　cha no yu"  
+ **"茶の湯　cha no yu"**
 
  *Vivi l'esperienza dell'autentica cerimonia del tè*
 
