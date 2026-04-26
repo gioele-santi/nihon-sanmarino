@@ -26,15 +26,13 @@ tags:
 
 presso la **Sala Polivalente di Murata** , via del Serrone 67A
 
- l'Associazione San Marino-Giappone, con il patrocinio della Giunta di Castello della Città di San Marino,
-
- organizza la manifestazione: 
+ l'Associazione San Marino-Giappone, con il patrocinio della Giunta di Castello della Città di San Marino, organizza la manifestazione: 
 
  **"茶の湯　cha no yu"**
 
  *Vivi l'esperienza dell'autentica cerimonia del tè*
 
-In questa occasione la maestra Miki Honma illustrerà ai presenti gli aspetti culturali e lo svolgimento della tradizionale cerimonia del tè giapponese.
+In questa occasione la maestra **Miki Homma** illustrerà ai presenti gli aspetti culturali e lo svolgimento della tradizionale cerimonia del tè giapponese.
 
 In seguito i partecipanti saranno "ospiti" di una cerimonia organizzata per loro e potranno gustare il tè matcha accompagnato da dolcetti giapponesi tradizionali.
 
