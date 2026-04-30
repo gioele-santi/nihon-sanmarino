@@ -44,13 +44,12 @@ Quota di partecipazione **15€** a persona.
 
 Per prenotare chiamare il numero: **+39 370 3531101**
 
+##### *la maestra*
 ### Miki Homma
-##### la maestra
 
-<br/>
 
-Nata a Sapporo, in Giappone. Fin dall’infanzia, sotto l’influenza dello Zen, si avvicina alla pratica della ceremonia del tè attraverso gli scambi con monaci zen. 
+Nata a Sapporo, in Giappone. Fin dall’infanzia, sotto l’influenza dello Zen, si avvicina alla pratica della cerimonia del tè attraverso gli scambi con monaci zen. 
 
-Durante gli studi in un liceo cattolico, riceve le prime lezioni di ceremonia del tè da un insegnante di matematica, per poi proseguire la formazione con un maestro di tè. 
+Durante gli studi in un liceo cattolico, riceve le prime lezioni di cerimonia del tè da un insegnante di matematica, per poi proseguire la formazione con un maestro di tè. 
 
-Dal 2006 vive in Italia, con base a Bologna, dove si dedica alla diffusione della ceremonia del tè.
+Dal 2006 vive in Italia, con base a Bologna, dove si dedica alla diffusione della cerimonia del tè.
