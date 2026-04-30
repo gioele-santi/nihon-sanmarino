@@ -2,7 +2,7 @@
 layout: page
 title: 茶の湯 Cerimonia del tè
 subheadline: Eventi
-teaser: "Vivi l'esperienza dell'autentica cerimonia del tè"
+#teaser: "Vivi l'esperienza dell'autentica cerimonia del tè"
 meta_teaser:  "Vivi l'esperienza dell'autentica cerimonia del tè"
 show_meta: true
 
@@ -33,7 +33,6 @@ l'Associazione San Marino-Giappone, con il patrocinio della Giunta di Castello d
 ##### *Vivi l'esperienza dell'autentica cerimonia del tè*
 
 <br/>
-<br/>
 
 In questa occasione la maestra **Miki Homma** illustrerà ai presenti gli aspetti culturali e lo svolgimento della tradizionale cerimonia del tè giapponese.
 
@@ -48,7 +47,6 @@ Per prenotare chiamare il numero: **+39 370 3531101**
 ### Miki Homma
 ##### la maestra
 
-<br/>
 <br/>
 
 Nata a Sapporo, in Giappone. Fin dall’infanzia, sotto l’influenza dello Zen, si avvicina alla pratica della ceremonia del tè attraverso gli scambi con monaci zen. 
