@@ -28,19 +28,21 @@ presso la **Sala Polivalente di Murata** , via del Serrone 67A
 
  l'Associazione San Marino-Giappone, con il patrocinio della Giunta di Castello della Città di San Marino, organizza la manifestazione: 
 
- **"茶の湯　cha no yu"**
-
- *Vivi l'esperienza dell'autentica cerimonia del tè*
+ ### "茶の湯　cha no yu"
+ #### *Vivi l'esperienza dell'autentica cerimonia del tè*
 
 In questa occasione la maestra **Miki Homma** illustrerà ai presenti gli aspetti culturali e lo svolgimento della tradizionale cerimonia del tè giapponese.
 
 In seguito i partecipanti saranno "ospiti" di una cerimonia organizzata per loro e potranno gustare il tè matcha accompagnato da dolcetti giapponesi tradizionali.
 
 I posti sono limitati a **20**.
+
 Quota di partecipazione **15€** a persona.
+
 Per prenotare chiamare il numero: **+39 370 3531101**
 
-## Miki Homma - *la maestra*
+### Miki Homma 
+#### *la maestra*
 
 Nata a Sapporo, in Giappone. Fin dall’infanzia, sotto l’influenza dello Zen, si avvicina alla pratica della ceremonia del tè attraverso gli scambi con monaci zen. 
 
