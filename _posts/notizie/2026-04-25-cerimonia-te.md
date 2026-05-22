@@ -42,7 +42,7 @@ I posti sono limitati a **20**.
 
 Quota di partecipazione **15€** a persona.
 
-Per prenotare chiamare il numero: **+39 370 3531101**
+Per prenotare chiamare il numero: *[prenotazioni chiuse]*
 
 ##### *la maestra*
 ### Miki Homma
